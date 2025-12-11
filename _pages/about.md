@@ -32,11 +32,11 @@ CV is available upon request.
 
 ## Publications
 
-[//]: #
+- **Mean-Shift Distillation for Diffusion Mode Seeking** \
+_WACV 2026_ \
+Vikas Thamizharasan, **Nikitas Chatzis**, Iliyan Georgiev, Matthew Fisher, Evangelos Kalogerakis, Difan Liu, Nanxuan Zhao, Michal Lukac \
+[[arxiv](https://www.arxiv.org/abs/2502.15989)]
 
 ### Pre-prints
 
-- **Mean-Shift Distillation for Diffusion Mode Seeking** \
-_under review_ \
-Vikas Thamizharasan, **Nikitas Chatzis**, Iliyan Georgiev, Matthew Fisher, Evangelos Kalogerakis, Difan Liu, Nanxuan Zhao, Michal Lukac \
-[[arxiv](https://www.arxiv.org/abs/2502.15989)]
+[//]: #
