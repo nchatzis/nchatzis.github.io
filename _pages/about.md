@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nikitas Chatzis and I am a researcher at the [Technical University of Crete](https://www.ece.tuc.gr/en/home),
-working with [prof. Evangelos Kalogerakis](https://kalo-ai.github.io/).
-My research is centered around Generative AI for Computer Graphics and Computer Vision.
+My name is Nikitas Chatzis and I am a first year PhD candidate at the [Technical University of Crete](https://www.ece.tuc.gr/en/home),
+advised by [prof. Evangelos Kalogerakis](https://kalo-ai.github.io/).
+I do research in Computer Graphics, Generative AI and Computer Vision.
 
-I recently graduated with an MSc. in Data Science and Machine Learning from the [National Technical University of Athens](https://www.ece.ntua.gr/en),
-where I worked with [prof. Symeon Papavassiliou](https://www.ece.ntua.gr/en/staff/76).
+I previously graduated with an MSc. in Data Science and Machine Learning from the [National Technical University of Athens](https://www.ece.ntua.gr/en),
+where I worked with [prof. Symeon Papavassiliou](https://www.ece.ntua.gr/en/staff/personalPage/cfb2b5ae-8945-4603-a80e-0362491a5010).
 Before that I received my BSc. in Computer Science from [University of Piraeus](https://cs.unipi.gr/en/),
 where I did my bachelor's thesis with [prof. Aggelos Pikrakis](https://scholar.google.com/citations?user=hPZSYsgAAAAJ&hl=en).
-During my undergraduate studies, I also interned at [NSCR "Demokritos"](https://www.iit.demokritos.gr/el/).
-
-CV is available upon request.
+During my undergraduate studies, I also interned at [NCSR "Demokritos"](https://www.iit.demokritos.gr/el/).
 
 [//]: # (## News)
 
@@ -38,5 +36,9 @@ Vikas Thamizharasan, **Nikitas Chatzis**, Iliyan Georgiev, Matthew Fisher, Evang
 [[arxiv](https://www.arxiv.org/abs/2502.15989)]
 
 ### Pre-prints
+
+[//]: #
+
+### Academic Service
 
 [//]: #
