@@ -10,7 +10,7 @@ redirect_from:
 My name is Nikitas Chatzis and I am a first year PhD candidate at the [Technical University of Crete](https://www.ece.tuc.gr/en/home),
 advised by [prof. Evangelos Kalogerakis](https://kalo-ai.github.io/).
 I do research in Computer Graphics, Generative AI and Computer Vision.
-Lately, I have been focusing on the generation of interactive and animatable 3D content and 4D generation.
+Lately I have been focusing on the generation of interactive and animatable 3D content, and 4D generation.
 
 In the past I have worked with [prof. Symeon Papavassiliou's](https://www.ece.ntua.gr/en/staff/personalPage/cfb2b5ae-8945-4603-a80e-0362491a5010) team at [NTUA](https://www.ece.ntua.gr/en), 
 with [prof. Aggelos Pikrakis](https://scholar.google.com/citations?user=hPZSYsgAAAAJ&hl=en) at the [University of Piraeus](https://cs.unipi.gr/en/), and also briefly interned at [NCSR "Demokritos"](https://www.iit.demokritos.gr/el/).
@@ -37,4 +37,4 @@ Vikas Thamizharasan, **Nikitas Chatzis**, Iliyan Georgiev, Matthew Fisher, Evang
 
 ### Academic Service
 
-[//]: #
+- Reviewer: **NeurIPS 2026**
