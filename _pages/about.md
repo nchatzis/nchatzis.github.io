@@ -10,7 +10,7 @@ redirect_from:
 My name is Nikitas Chatzis and I am a first year PhD candidate at the [Technical University of Crete](https://www.ece.tuc.gr/en/home),
 advised by [prof. Evangelos Kalogerakis](https://kalo-ai.github.io/).
 I do research in Computer Graphics, Generative AI and Computer Vision.
-Lately I have been focusing on the generation of interactive and animatable 3D content, and 4D generation.
+Lately I have been focusing on the generation of interactive and animatable 3D content, 4D generation and AI watermarking.
 
 In the past I have worked with [prof. Symeon Papavassiliou's](https://www.ece.ntua.gr/en/staff/personalPage/cfb2b5ae-8945-4603-a80e-0362491a5010) team at [NTUA](https://www.ece.ntua.gr/en), 
 with [prof. Aggelos Pikrakis](https://scholar.google.com/citations?user=hPZSYsgAAAAJ&hl=en) at the [University of Piraeus](https://cs.unipi.gr/en/), and also briefly interned at [NCSR "Demokritos"](https://www.iit.demokritos.gr/el/).
@@ -24,7 +24,7 @@ with [prof. Aggelos Pikrakis](https://scholar.google.com/citations?user=hPZSYsgA
 - **Rigel3D: Rig-aware Latents for Animation-Ready 3D Asset Generation** \
 _NeurIPS 2026_ \
 **Nikitas Chatzis**, Marios Loizou, Evangelos Kalogerakis \
-[[arxiv](https://arxiv.org/abs/2605.13129)] [Code & Webpage Coming Soon]
+[[arxiv](https://arxiv.org/abs/2605.13129)] [[page](https://nchatzis.github.io/Rigel3D_page/)][[code](https://github.com/nchatzis/Rigel3D)]
 
 - **Mean-Shift Distillation for Diffusion Mode Seeking** \
 _WACV 2026_ \
