@@ -24,7 +24,7 @@ with [prof. Aggelos Pikrakis](https://scholar.google.com/citations?user=hPZSYsgA
 - **Rigel3D: Rig-aware Latents for Animation-Ready 3D Asset Generation** \
 _NeurIPS 2026_ \
 **Nikitas Chatzis**, Marios Loizou, Evangelos Kalogerakis \
-[[arxiv](https://arxiv.org/abs/2605.13129)] [[page](https://nchatzis.github.io/Rigel3D_page/)][[code](https://github.com/nchatzis/Rigel3D)]
+[[arxiv](https://arxiv.org/abs/2605.13129)] [[page](https://nchatzis.github.io/Rigel3D/)] [[code](https://github.com/nchatzis/Rigel3D)]
 
 - **Mean-Shift Distillation for Diffusion Mode Seeking** \
 _WACV 2026_ \
